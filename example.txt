@@ -3,3 +3,5 @@ git status
 git add .
 git commit -m "a helpful comment about the changes I made"
 git push
+
+example change
